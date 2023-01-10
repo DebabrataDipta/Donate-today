@@ -59,6 +59,10 @@
     box-shadow: 4px 4px 8px grey;
     padding: 50px;
 }
+.taka-amount:hover{
+    color: white;
+    background-color: #FF5959;
+}
 .other-amount{
      margin-top: 20px;
      color: #B3B3B3;
