@@ -67,3 +67,145 @@
 .button-primary{
     margin-top:10px;
 }
+.donate-plan{
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.donate-plan-title{
+    font-size: 35px;
+    font-weight: 700;
+    color: rgba(10, 157, 157, 0.783);
+}
+.donate-plan-paragraph{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #707070;
+}
+.donate-box{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin: 50px 100px;
+
+}
+.box-model{
+    box-shadow: 5px 5px 6px grey;
+    border-radius: 10px;
+    padding: 50px;
+}
+.education-image{
+    width: 50px;
+}
+.box-model img{
+    margin-bottom: 5px;
+}
+.model-title{
+    color:white;
+}
+.model-para{
+    margin-top: 10px;
+    color: #707070;
+}
+#first{
+    background-color: #fc7703f9;
+}
+#second{
+    background-color: #e80808c1;
+}
+#third{
+    background-color: #a4f116e5;
+}
+.contribute{
+    margin-top: 150px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    width: 70%;
+    margin: auto;
+    margin-top:150px;
+}
+.contribute-2-img{
+    width: 400px;
+    border-style: none;
+    border-radius: 4px;
+    height: 60%;
+}
+.contribute-heading{
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.contribute-para{
+    color:#707070;
+}
+#thrid-button{
+    margin-top: 25px;
+}
+.survive{
+    display: flex;
+    gap: 50px;
+    width: 70%;
+    margin: auto;
+}
+.survive-img{
+    width: 400px;
+    border-style: none;
+    border-radius: 4px;
+}
+.part2{
+    margin-top: 200px;
+}
+#fourth-btn{
+    margin-top: 30px;
+}
+.updates{
+    margin-top: 120px;
+    text-align: center;
+    /* align-items: center; */
+}
+.update-title{
+    margin-top: 10px;
+    font-weight: 900;
+    font-size: 35px;
+}
+.update-para{
+    margin-top: 15px;
+    color:#707070;
+}
+.update-area{
+  
+       padding: 50px;
+       background-color: #FFF4D6;
+       margin: 10px 200px;
+       height: 150px;
+       border-radius: 10px;
+       box-shadow: 6px 6px 5px grey;
+}
+.input-btn{
+    margin-top: 25px;
+    padding: 15px;
+    width: 20%;
+}
+.button-submit{
+    margin-top: 25px;
+    color: white;
+    font-size: 18px;
+    padding: 12px;
+    background-color: #FF5959;
+    border-radius: 3px;
+    border-style: none;
+}
+.footer{
+    margin-top: 50px;
+    background-color: #121212;
+    text-align: center;
+    color: white;
+    padding: 30px;
+}
+.footer-title{
+    font-style: italic;
+}
+.footer p{
+    margin-top: 10px;   
+}
